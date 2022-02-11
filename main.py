@@ -1,5 +1,4 @@
 import discord
-from discord.ext.commands import bot
 
 import config
 
